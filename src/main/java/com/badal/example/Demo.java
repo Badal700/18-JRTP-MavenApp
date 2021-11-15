@@ -6,4 +6,9 @@ public class Demo {
 		String msg = "Welcome";
 		return msg;
 	}
+	
+	public String wish() {
+		String msg = "Good Morning";
+		return msg;
+	}
 }
