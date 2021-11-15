@@ -11,4 +11,9 @@ public class Demo {
 		String msg = "Good Morning";
 		return msg;
 	}
+
+	public String wishMsg() {
+		String msg = "Good Night";
+		return msg;
+	}
 }
