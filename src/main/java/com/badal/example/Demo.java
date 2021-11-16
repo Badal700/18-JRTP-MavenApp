@@ -1,6 +1,7 @@
 package com.badal.example;
 
 public class Demo {
+	private static final String str = "Welcome Boys..!!"
 	
 	public String msg() {
 		String msg = "Welcome";
