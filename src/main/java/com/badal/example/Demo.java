@@ -2,6 +2,7 @@ package com.badal.example;
 
 public class Demo {
 	private static final String str = "Welcome Boys..!!"
+	Map<String,Object> map = new HashMap<>();
 	
 	public String msg() {
 		String msg = "Welcome";
